@@ -10,6 +10,6 @@ Features
 
 Credits & License
 - UI/UX & code: Irsyad Khoirul Anwar
-- Inspired by [sileht/bird-lg](https://github.com/Irsyad1609/bird-lg)
+- Inspired by [sileht/bird-lg](https://github.com/sileht/bird-lg)
 - Source code under GPL 3.0
 - Powered by Next.js, Flask, and Bird2
