@@ -202,7 +202,7 @@ export function BGPLookingGlass() {
                 </SelectTrigger>
                 <SelectContent>
                   <SelectItem value="all">all</SelectItem>
-                  <SelectItem value="lg">Lampung - ID</SelectItem>
+                  <SelectItem value="lg">BTD Lampung-ID</SelectItem>
                 </SelectContent>
               </Select>
             </div>
