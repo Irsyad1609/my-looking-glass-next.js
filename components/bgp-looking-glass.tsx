@@ -226,7 +226,7 @@ export function BGPLookingGlass() {
                   IPv6
                 </Button>
               </div>
-              <span className="text-gray-600 text-sm">BIRD 2.0.12</span>
+              <span className="text-gray-600 text-sm">BIRD2 2.17.1</span>
             </div>
           </div>
           <h1 className="text-lg md:text-xl font-semibold text-center md:text-right">Looking Glass</h1>
