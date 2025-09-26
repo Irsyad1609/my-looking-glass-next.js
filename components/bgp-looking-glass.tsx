@@ -229,7 +229,7 @@ export function BGPLookingGlass() {
               <span className="text-gray-600 text-sm">BIRD2 2.17.1</span>
             </div>
           </div>
-          <h1 className="text-lg md:text-xl font-semibold text-center md:text-right">AS205018 Looking Glass</h1>
+          <h1 className="text-lg md:text-xl font-semibold text-center md:text-right">Looking Glass</h1>
         </div>
       </div>
 
@@ -381,7 +381,8 @@ export function BGPLookingGlass() {
         </div>
       </div>
       <footer className="w-full text-center text-xs text-gray-500 py-4 border-t bg-white mt-8">
-        Bird Looking Glass &mdash; adapted from
+        <a href="https://www.as205018.net/" target="_blank" rel="noopener" className="underline mx-1">AS205018</a>
+        Looking Glass &mdash; adapted from
         <a href="https://github.com/sileht/bird-lg" target="_blank" rel="noopener" className="underline mx-1">source code</a>
         under GPL 3.0 &mdash; powered by Next.js, Python Flask, and Bird2
       </footer>
